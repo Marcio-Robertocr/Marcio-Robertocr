@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋 , sou Márcio Roberto</h1>
-<h3 align="center">Formado em ADS e especializando em Front End</h3>
+<h1 align="center">Márcio Roberto</h1>
+<h3 align="center">Formado em <strong>ADS</strong> e especializando em <strong>Front End</strong></h3>
 
 <h3 align="left">Minhas redes:</h3>
 <p align="left">
