@@ -12,9 +12,9 @@
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
    </p>
 
-  <div display="flex">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=marcio-robertocr&show_icons=true&locale=en"alt="marcio-robertocr" height="100" width="500"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcio-robertocr&show_icons=true&locale=en&layout=compact" alt="marcio-robertocr"height="100" width="500">
+  <div>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=marcio-robertocr&show_icons=true&locale=en"alt="marcio-robertocr" height="100" width="700"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcio-robertocr&show_icons=true&locale=en&layout=compact" alt="marcio-robertocr"height="100" width="700">
     </p>
   </div>
   
