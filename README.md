@@ -1,4 +1,4 @@
-<section align="center">
+<section align-itens="center">
   <h1>Márcio Roberto</h1>
   <h3>Formado em <strong>ADS</strong> e especializando em <strong>Front End</strong></h3>
 
